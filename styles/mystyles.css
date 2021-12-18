@@ -1,0 +1,64 @@
+.citybg { 
+    background-image:linear-gradient(rgba(220, 210, 200, 0.45), rgba(220, 210, 200, 0.45)), url(../images/images/pexels-aleksandar-pasaric-325185.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }
+
+.mauvenav {
+  background-color: #b784a7, opacity=.45;
+  font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  display: block;
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.navfont{
+  font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  display: block;
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.centeredtext {
+    text-align: center;
+}
+
+.centeredimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.yellowtexttitle {
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    display: block;
+    color: #e6a756;
+    font-weight: 900;
+}
+
+.yellowtext {
+    color: #e6a756;
+}
+
+.boldyellowtext {
+    color: #e6a756;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 15px;
+    top: 25%;
+    left: 23%;
+}
+
+.boldtext {
+    font-weight: bold;
+}
+
+.normaltext {
+    font-weight: normal;
+}
+
+.underline {
+    text-decoration: underline;   
+}

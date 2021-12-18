@@ -1,0 +1,85 @@
+.navigation {
+  background-color: rgba(255,190,80,.12);
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  margin-top: auto;
+  width: 100%;
+}
+
+.citybg { 
+    background-image:linear-gradient(rgba(220, 210, 200, 0.45), rgba(220, 210, 200, 0.45)), url(../images/images/pexels-aleksandar-pasaric-325185.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }
+.headertext{
+  font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  display: block;
+  font-weight: 700;
+}
+
+.centeredtext {
+    text-align: center;
+}
+
+.centeredimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.boldtext {
+    font-weight: bold;
+}
+
+.normaltext {
+    font-weight: normal;
+}
+
+.underline {
+    text-decoration: underline;   
+}
+.yellowtext {
+    color: #e6a756;
+}
+
+.footer {
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    margin-bottom: auto;
+    background-color: rgba(255,190,80,.15);
+    text-align: center;
+    width: 100%;
+    position:absolute;
+    
+}
+
+.body {
+    margin-top:auto;
+    margin-bottom: auto;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    position:relative;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.textbackground {
+    outline-color: rgba(255,190,80,.35);
+    background-color: rgba(255,190,80,.10);
+}    
+
+.a {
+    color:#e6a756;
+    text-decoration: none;
+            
+}
+    
+a:hover{
+    text-decoration: underline;
+    font-weight:bold;
+}
+
+a:visited   {
+    color:#673147;
+}
+        
